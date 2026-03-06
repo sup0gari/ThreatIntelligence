@@ -9,7 +9,7 @@
 
 ### Behavior
 サンドボックス解析の結果。
-- Proccess tree
+- Proccesses tree
 
 ### Relations
 通信したサーバー、IP、ドメインとダウンロードしたファイルなどの情報。
